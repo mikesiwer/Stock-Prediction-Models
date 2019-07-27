@@ -31,7 +31,7 @@
 
 ### Models
 
-#### [Deep-learning models](deep-learning)
+#### [Deep learning models](deep-learning)
  1. LSTM Recurrent Neural Network
  2. Encoder-Decoder Feed-forward + LSTM Recurrent Neural Network
  3. LSTM Bidirectional Neural Network
